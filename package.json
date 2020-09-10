@@ -14,7 +14,7 @@
     "Julie Ralph <ju.ralph@gmail.com>"
   ],
   "dependencies": {
-    "minimist": "^1.2.0"
+    "minimist": "^1.2.3"
   },
   "devDependencies": {
     "@types/jasmine": "2.5.45",
